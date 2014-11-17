@@ -758,8 +758,8 @@
         <branch>STABLE</branch>
         <version>3.0</version>
         <name>Stable</name>
-        <package_url>http://meteorite.bi/downloads/saiku-plugin-p5-3.0-GA.zip</package_url>
-        <description>3.0 release for the Saiku Plugin</description>
+        <package_url>http://meteorite.bi/downloads/saiku-plugin-p5-3.0.3.zip</package_url>
+        <description>3.0.3 GA release for the Saiku Plugin, fixes include: Autoexec button not being listened to and resaving a query now doesn't have a broken path.</description>
         <max_parent_version>6.0</max_parent_version>
         <min_parent_version>5.0</min_parent_version>
           <development_stage>
